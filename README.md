@@ -37,3 +37,9 @@ Tasks related to all companies:
 1. Please create a procedure that for the given city name determines who living in this city has the highest current salary and shows who it is. To display: name, surname, city (name), salary.
 2. Create a procedure that shows the average salary of an employee's outdated posts and the average of all current salaries for a given name. To display: First name, last name, average salary from historical positions, average salary from current positions.
 3. Create a procedure that calculates the average salary for the given position (selected by name) (regardless of the city). Then update as many salaries that are below average. The salary is to be increased by 1000. The choice should take into account current and historical posts. Please include only current posts in the update.  
+
+## Folder Task_5
+
+1. Create a procedure that displays all students from a given university attending a given subject. Arguments: university id, subject id. To display: name, surname, university name, subject name.
+2. Create a trigger that, when you add a new student, writes it to a random subject.
+3. Create a trigger that displays the message "Note, the university name has been updated after the university name has been updated.
