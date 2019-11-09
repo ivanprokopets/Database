@@ -43,3 +43,10 @@ Tasks related to all companies:
 1. Create a procedure that displays all students from a given university attending a given subject. Arguments: university id, subject id. To display: name, surname, university name, subject name.
 2. Create a trigger that, when you add a new student, writes it to a random subject.
 3. Create a trigger that displays the message "Note, the university name has been updated after the university name has been updated.
+
+
+## Folder Task_6
+
+1. Create a procedure that creates a new student, enrolls them for the selected university and three selected subjects. The user provides all student details, university name and subject names. If you enter the wrong name of the university or subject, you should handle the error and display to the user information about what he did wrong. After each step (creating a student, enrolling in universities and subjects), please write an appropriate message to the console.
+2. A competition was held for the popularity of subjects taught at universities. It was decided that only the university with the highest number of students enrolled in the subject would have the sole right to teach the subject. Add the column "uczelnia_id" to the student_table table and fill it with the appropriate values. Please include the needed alerts / selects / updates in the report.
+3. Create a procedure that, after entering the name of the subject, will compare its popularity at all universities.
